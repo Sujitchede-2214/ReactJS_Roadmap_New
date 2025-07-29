@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactJS_RoadMap", "ReactJS_RoadMap\ReactJS_RoadMap.csproj", "{EDE1E5BE-2C37-4F59-80E9-7425331655A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDE1E5BE-2C37-4F59-80E9-7425331655A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE1E5BE-2C37-4F59-80E9-7425331655A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE1E5BE-2C37-4F59-80E9-7425331655A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE1E5BE-2C37-4F59-80E9-7425331655A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66B5D2BF-FF6D-4789-AC47-2660C0983199}
+	EndGlobalSection
+EndGlobal
